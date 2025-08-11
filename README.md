@@ -79,4 +79,4 @@ matplotlib
 imblearn
 statsmodels
 
-O arquivo final_notebook.ipynb contém o código completo e os comentários passo a passo.
+O arquivo Telecom_X_Analise_Preditiva.ipynb contém o código completo e os comentários passo a passo.
